@@ -1,8 +1,7 @@
 //sofi
-let numero1=2;
-let numero=3;
 
 
+coadadadasd
 
 
 
